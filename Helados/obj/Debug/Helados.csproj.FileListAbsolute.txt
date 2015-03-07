@@ -1,0 +1,9 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\bin\Debug\Helados.exe.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\obj\Debug\Helados.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\obj\Debug\Helados.Form1.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\obj\Debug\Helados.Properties.Resources.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\obj\Debug\Helados.csproj.GenerateResource.Cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\bin\Debug\Helados.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\bin\Debug\Helados.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\obj\Debug\Helados.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Helados\Helados\obj\Debug\Helados.pdb

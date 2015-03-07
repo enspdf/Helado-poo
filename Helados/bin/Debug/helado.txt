@@ -1,0 +1,3 @@
+Helado: Vainilla
+Cantidad: 2
+Total a pagar: 2600
